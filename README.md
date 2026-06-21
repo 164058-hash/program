@@ -1,2 +1,2 @@
 # program
-[Program](Program.py)
+[Program](program.py)
